@@ -26,10 +26,9 @@ class Upgrade extends Component {
             <Col>
               <Card>
                 <CardHeader>
-                  <CardTitle>Now UI Dashboard PRO React</CardTitle>
+                  <CardTitle> Admin Dashboard</CardTitle>
                   <p className="category">
-                    Are you looking for more components? Please check our
-                    Premium Version of Now UI Dashboard React.
+                    Are you looking for more components.
                   </p>
                 </CardHeader>
                 <CardBody>
