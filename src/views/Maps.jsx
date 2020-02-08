@@ -106,7 +106,7 @@ class FullScreenMap extends React.Component {
   render() {
     return (
       <>
-        <PanelHeader size="sm" />
+        //<PanelHeader size="sm" />
         <div className="content">
           <Row>
             <Col xs={12}>
